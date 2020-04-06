@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.techprimers.aws</groupId>
-	<artifactId>aws-elastic-beanstalk-example-2</artifactId>
+	<artifactId>aws-elastic-beanstalk-example-22</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>aws-elastic-beanstalk-example-2</name>
 	<description>Demo project for Spring Boot with AWS and CodePipeline</description>
 
