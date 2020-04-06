@@ -15,4 +15,4 @@ phases:
    
 artifacts:
   files:
-    - target/aws-elastic-beanstalk-example-2-0.0.1-SNAPSHOT.war
+    - target/deploy/WEB-INF/lib/aws-elastic-beanstalk-example-2-0.0.1-SNAPSHOT.jar
